@@ -1,0 +1,23 @@
+.bz-light-color {
+    background-color: rgba(255, 0, 0, 0.185);
+}
+
+.rating-icon {
+    width: 20px;
+}
+.app-icon{
+    width: 40px;
+}
+.unstyl a{
+    text-decoration: none;
+    color: white;
+}
+.unstyl a:hover{
+    color: #5DA3FA;
+}
+.footer-hov:hover{
+    color: #5DA3FA !important;
+}
+#hide {
+    display: none;
+}
